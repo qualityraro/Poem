@@ -11,3 +11,6 @@ the depth of anguish and despair,
 roams ceaselessly without a care.
 
 These are the colors of the Rainbow.
+
+Okay simply, put, I am making these changes of text on Visual Studio code and then I will
+push the commits on GitHub Desktop.
